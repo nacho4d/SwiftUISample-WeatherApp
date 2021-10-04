@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		4F08B64E270B4C1B001D9442 /* StandardButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F08B64D270B4C1B001D9442 /* StandardButton.swift */; };
 		4F08B64F270B4C1B001D9442 /* StandardButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F08B64D270B4C1B001D9442 /* StandardButton.swift */; };
+		4F08B651270B5029001D9442 /* OpenWeatherAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F08B650270B5029001D9442 /* OpenWeatherAPI.swift */; };
+		4F08B652270B5029001D9442 /* OpenWeatherAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F08B650270B5029001D9442 /* OpenWeatherAPI.swift */; };
 		4F22A64127099C7000E40C2A /* WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F22A63127099C6F00E40C2A /* WeatherApp.swift */; };
 		4F22A64227099C7000E40C2A /* WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F22A63127099C6F00E40C2A /* WeatherApp.swift */; };
 		4F22A64327099C7000E40C2A /* WeatherMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F22A63227099C6F00E40C2A /* WeatherMainView.swift */; };
@@ -19,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		4F08B64D270B4C1B001D9442 /* StandardButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardButton.swift; sourceTree = "<group>"; };
+		4F08B650270B5029001D9442 /* OpenWeatherAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenWeatherAPI.swift; sourceTree = "<group>"; };
 		4F22A63127099C6F00E40C2A /* WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApp.swift; sourceTree = "<group>"; };
 		4F22A63227099C6F00E40C2A /* WeatherMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherMainView.swift; sourceTree = "<group>"; };
 		4F22A63327099C7000E40C2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,6 +64,7 @@
 				4F22A63227099C6F00E40C2A /* WeatherMainView.swift */,
 				4F22A63327099C7000E40C2A /* Assets.xcassets */,
 				4F08B64D270B4C1B001D9442 /* StandardButton.swift */,
+				4F08B650270B5029001D9442 /* OpenWeatherAPI.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -183,6 +187,7 @@
 				4F22A64327099C7000E40C2A /* WeatherMainView.swift in Sources */,
 				4F22A64127099C7000E40C2A /* WeatherApp.swift in Sources */,
 				4F08B64E270B4C1B001D9442 /* StandardButton.swift in Sources */,
+				4F08B651270B5029001D9442 /* OpenWeatherAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,6 +198,7 @@
 				4F22A64427099C7000E40C2A /* WeatherMainView.swift in Sources */,
 				4F22A64227099C7000E40C2A /* WeatherApp.swift in Sources */,
 				4F08B64F270B4C1B001D9442 /* StandardButton.swift in Sources */,
+				4F08B652270B5029001D9442 /* OpenWeatherAPI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
